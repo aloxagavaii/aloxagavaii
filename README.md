@@ -1,6 +1,6 @@
 ### ХАЛО!
 
-![Codewars] (https://github.r2v.ch/codewars?user=aloxagavaii&theme=gradient_red_light )
+![Codewars] (https://github.r2v.ch/codewars?user=aloxagavaii&theme=gradient&hide_clan=true&top_languages=true )
 
 <!--
 **aloxagavaii/aloxagavaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
