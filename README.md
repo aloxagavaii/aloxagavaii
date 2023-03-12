@@ -1,6 +1,6 @@
 <h1 align="center">ХАЛО! Я <a href="https://vk.com/id204234487" target="_blank">Андрей</a>
 
-![Codewars] (https://github.r2v.ch/codewars?user=aloxagavaii&theme=gradient&hide_clan=true&top_languages=true )
+[![codewars](https://www.codewars.com/users/aloxagavaii/badges/large)](https://www.codewars.com/users/aloxagavaii)
 
 <!--
 **aloxagavaii/aloxagavaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
