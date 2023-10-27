@@ -3,9 +3,6 @@
 <br>
 <br>
 
-
+ [![codewars](https://github.r2v.ch/codewars?user=aloxagavaii&hide_clan=true&theme=gradient&top_languages=true)](https://www.codewars.com/users/aloxagavaii)
 
 </h1>
-<p>
-  [![codewars](https://github.r2v.ch/codewars?user=aloxagavaii&hide_clan=true&theme=gradient&top_languages=true)](https://www.codewars.com/users/aloxagavaii)
-</p>
