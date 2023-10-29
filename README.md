@@ -1,4 +1,4 @@
-<h1 align="center">ХАЛО! Я <a href="https://vk.com/id204234487">Андрей</a>? Сам Андрей!<br>
+<h1 align="center">ХАЛО! Я Андрей? Сам <a href="https://vk.com/id204234487">Андрей</a>!<br>
   ...и я знаю, что хавваии)
 <br>
 <br>
